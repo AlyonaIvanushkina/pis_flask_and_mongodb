@@ -1,0 +1,1 @@
+```docker-compose up -d``` command run this app
